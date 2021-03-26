@@ -1,12 +1,4 @@
-# CSC 413 - Project One
 
-## Student Name  : Dinesh Thapa
-
-## Student ID    : 920879242
-
-## Student Email : dthapa@mail.sfsu.edu
-
-### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
 
 # Adding the JUnit 5 Jars to your project.
 
