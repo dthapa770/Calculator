@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630632e1-9430-40be-b934-028afe9a9f9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oAe7hXQVxMLJhKZHkeXZYmaHir" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.EvaluatorUI">
+    <configuration name="EvaluatorUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.csc413.calculator.evaluator.EvaluatorUI" />
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.csc413.calculator.evaluator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in calculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EvaluatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in calculator" />
+        <item itemvalue="JUnit.All in test" />
+        <item itemvalue="Application.EvaluatorUI" />
+        <item itemvalue="JUnit.EvaluatorTest" />
+        <item itemvalue="JUnit.All in test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630632e1-9430-40be-b934-028afe9a9f9e" name="Default Changelist" comment="" />
+      <created>1612733656211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612733656211</updated>
+      <workItem from="1612733657269" duration="9830000" />
+      <workItem from="1613509587391" duration="2362000" />
+      <workItem from="1613721437865" duration="16876000" />
+      <workItem from="1613880550275" duration="6432000" />
+      <workItem from="1613894546815" duration="17222000" />
+      <workItem from="1613969016048" duration="72000" />
+      <workItem from="1613969175083" duration="2332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="41" key="#Project_Structure" timestamp="1612733931236">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="208" y="41" key="#Project_Structure/0.25.1440.875@0.25.1440.875" timestamp="1612733931236" />
+    <state x="100" y="125" width="1240" height="675" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1613961459722">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="100" y="125" width="1240" height="675" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1440.875@0.25.1440.875" timestamp="1613961459722" />
+    <state x="458" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613964539984">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="458" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875@0.25.1440.875" timestamp="1613964539984" />
+    <state width="516" height="438" key="DebuggerActiveHint" timestamp="1613870458130">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="516" height="438" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1613870458130" />
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom" timestamp="1613968333812">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1613722707552" />
+    <state width="1398" height="282" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1613968333812" />
+    <state width="1398" height="282" key="GridCell.Tab.0.center" timestamp="1613968333811">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1613722707551" />
+    <state width="1398" height="282" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1613968333811" />
+    <state width="1398" height="282" key="GridCell.Tab.0.left" timestamp="1613968333810">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1613722707550" />
+    <state width="1398" height="282" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1613968333810" />
+    <state width="1398" height="282" key="GridCell.Tab.0.right" timestamp="1613968333811">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1613722707552" />
+    <state width="1398" height="282" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1613968333811" />
+    <state width="1398" height="282" key="GridCell.Tab.1.bottom" timestamp="1613968333813">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1613968333813" />
+    <state width="1398" height="282" key="GridCell.Tab.1.center" timestamp="1613968333812">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1613968333812" />
+    <state width="1398" height="282" key="GridCell.Tab.1.left" timestamp="1613968333812">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1613968333812" />
+    <state width="1398" height="282" key="GridCell.Tab.1.right" timestamp="1613968333813">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="282" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1613968333813" />
+    <state x="343" y="166" key="NewModule_or_Project.wizard" timestamp="1613865005034">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="343" y="166" key="NewModule_or_Project.wizard/0.25.1440.875@0.25.1440.875" timestamp="1613865005034" />
+    <state x="208" y="41" key="SettingsEditor" timestamp="1612734010166">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="208" y="41" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1612734010166" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csc413/calculator/operators/MultiplyOperator.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/PowerOperatorTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/edu/csc413/calculator/evaluator/Evaluator.java</url>
+          <line>22</line>
+          <properties class="edu.csc413.calculator.evaluator.Evaluator" method="evaluateExpression">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
